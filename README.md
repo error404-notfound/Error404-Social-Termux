@@ -11,7 +11,8 @@ Este script viene incluidos varios scams con propositos educativo
 
 ### REQUERIMIENTOS
 
-- pkg instalar git
+- pkg install git
+- pkg install python
 - pkg install python2 
 - pkg install php  
 - pkg install curl  
